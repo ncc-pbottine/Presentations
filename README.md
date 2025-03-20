@@ -16,7 +16,9 @@ Repository of some of my presentations
 
 ## Crypto Vulnerabilities in the Wild at Swiss Crypto Days 2023 in Zurich, Switzerland 
 
-In this talk, Paul will present a few selected cryptography vulnerabilities identified through security reviews conducted by the Cryptography Services team at NCC Group. The presentation will start with an exploration of security flaws found in blockchain deployments, including a biased ChaCha20-based Random Number Generator due to erroneous programming language translation and an issue related to a missing parameter in the Fiat-Shamir computation of a Verifiable Random Function (VRF) leading to the break of its uniqueness property. The speaker will also discuss an ECDSA signature forgery arising from a missing step in the verification process, frequently affecting even modern threshold ECDSA implementations, as well as a TLS authentication bypass leveraging a poor state-machine design. This presentation will highlight the range of issues discovered during cryptography reviews and hopefully help cryptographers and developers avoid such errors.
+* Abstract
+
+  > In this talk, Paul will present a few selected cryptography vulnerabilities identified through security reviews conducted by the Cryptography Services team at NCC Group. The presentation will start with an exploration of security flaws found in blockchain deployments, including a biased ChaCha20-based Random Number Generator due to erroneous programming language translation and an issue related to a missing parameter in the Fiat-Shamir computation of a Verifiable Random Function (VRF) leading to the break of its uniqueness property. The speaker will also discuss an ECDSA signature forgery arising from a missing step in the verification process, frequently affecting even modern threshold ECDSA implementations, as well as a TLS authentication bypass leveraging a poor state-machine design. This presentation will highlight the range of issues discovered during cryptography reviews and hopefully help cryptographers and developers avoid such errors.
 
 * [Slides](2023_SwissCryptoDays/Paul%20Bottinelli%20-%20CryptoVulnsInTheWild%20-%20SCD23.pdf)
 * Link to event: <https://swisscryptoday.github.io/2023/>
@@ -24,7 +26,9 @@ In this talk, Paul will present a few selected cryptography vulnerabilities iden
 
 ## Selected Cryptography Vulnerabilities of IoT Implementations at ICMC 2022 in Arlington, VA 
 
-In this talk, Paul will present a number of selected cryptography vulnerabilities frequently encountered during security reviews and penetration tests of IoT solutions.
+* Abstract:
+
+  > In this talk, Paul will present a number of selected cryptography vulnerabilities frequently encountered during security reviews and penetration tests of IoT solutions.
 
 * [Slides](2022_ICMC/ICMC22_Paul_Bottinelli_Selected_Crypto_Vulns_IoT.pdf)
 * Link to event: <https://icmconference.org/?session=selected-cryptography-vulnerabilities-of-iot-implementations-e32a>
