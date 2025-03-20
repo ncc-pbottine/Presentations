@@ -1,5 +1,6 @@
 # Presentations
-Repository of some of my presentations
+
+Repository of some of my most recent external presentations.
 
 ## `unsafe` Cryptography: Common Vulnerabilities in Modern Programming Languages at ICMC 2024 in San Jose, CA 
 
