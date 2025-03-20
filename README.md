@@ -3,9 +3,9 @@ Repository of some of my presentations
 
 ## `unsafe` Cryptography: Common Vulnerabilities in Modern Programming Languages at ICMC 2024 in San Jose, CA 
 
-In this talk, Paul will explore common vulnerabilities encountered in modern programming languages when implementing cryptographic systems. He will discuss prevalent security risks 
-across languages like Rust, and how even languages designed with safety in mind can lead to subtle vulnerabilities. Whether you're new to cryptography or an experienced developer, 
-this session will provide valuable insights to strengthen your understanding of secure coding practices in today's programming landscape.
+* Abstract
+
+  > In this talk, Paul will explore common vulnerabilities encountered in modern programming languages when implementing cryptographic systems. He will discuss prevalent security risks across languages like Rust, and how even languages designed with safety in mind can lead to subtle vulnerabilities. Whether you're new to cryptography or an experienced developer, this session will provide valuable insights to strengthen your understanding of secure coding practices in today's programming landscape.
 
 
 * [Slides](2024_ICMC/ICMC24_Paul_Bottinelli_unsafe_cryptography.pdf)
@@ -26,5 +26,5 @@ In this talk, Paul will present a few selected cryptography vulnerabilities iden
 
 In this talk, Paul will present a number of selected cryptography vulnerabilities frequently encountered during security reviews and penetration tests of IoT solutions.
 
-* [Slides](2022_ICMC/ICMC24_Paul_Bottinelli_unsafe_cryptography.pdf)
+* [Slides](2022_ICMC/ICMC22_Paul_Bottinelli_Selected_Crypto_Vulns_IoT.pdf)
 * Link to event: <https://icmconference.org/?session=selected-cryptography-vulnerabilities-of-iot-implementations-e32a>
